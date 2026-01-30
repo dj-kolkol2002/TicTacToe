@@ -1,5 +1,3 @@
-Here is a concise, English version of the `README.md` for your GitHub repository.
-
 ---
 
 # ❌⭕ Tic Tac Toe (Python)
@@ -11,16 +9,13 @@ A simple, classic Tic Tac Toe game built with Python and **Tkinter**. This proje
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
+git clone https://github.com/dj-kolkol2002/TicTacToe.git
 ```
 
 **2. Run the game:**
 
 ```bash
 python tictactoe.py
-
 ```
 
 ## ✨ Features
